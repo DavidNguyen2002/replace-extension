@@ -1,5 +1,6 @@
 {
     "name": "Search and Replace!",
+    "description": "An extension that allows for replacing text on web pages with your own text.",
     "version": "1.1",
     "manifest_version": 3,
     "content_scripts": [
